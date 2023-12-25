@@ -1,0 +1,10 @@
+C:\Users\pc\Music\testUploadImage\testUploadImage\bin\Debug\testUploadImage.exe.config
+C:\Users\pc\Music\testUploadImage\testUploadImage\bin\Debug\testUploadImage.exe
+C:\Users\pc\Music\testUploadImage\testUploadImage\bin\Debug\testUploadImage.pdb
+C:\Users\pc\Music\testUploadImage\testUploadImage\obj\Debug\testUploadImage.csproj.AssemblyReference.cache
+C:\Users\pc\Music\testUploadImage\testUploadImage\obj\Debug\testUploadImage.Form1.resources
+C:\Users\pc\Music\testUploadImage\testUploadImage\obj\Debug\testUploadImage.Properties.Resources.resources
+C:\Users\pc\Music\testUploadImage\testUploadImage\obj\Debug\testUploadImage.csproj.GenerateResource.cache
+C:\Users\pc\Music\testUploadImage\testUploadImage\obj\Debug\testUploadImage.csproj.CoreCompileInputs.cache
+C:\Users\pc\Music\testUploadImage\testUploadImage\obj\Debug\testUploadImage.exe
+C:\Users\pc\Music\testUploadImage\testUploadImage\obj\Debug\testUploadImage.pdb
